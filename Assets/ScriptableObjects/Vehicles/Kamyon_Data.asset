@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4a4a1bde26cb7448b6b58ac1d0898fc, type: 3}
+  m_Name: Kamyon_Data
+  m_EditorClassIdentifier: Assembly-CSharp::VehicleDataSO
+  vehicleID: kamyon_01
+  vehicleName: Kamyon
+  vehicleType: 2
+  vehicleIcon: {fileID: 0}
+  capacity: 200
+  speed: 30
+  fuelEfficiency: 0
+  baseCost: 6000
+  unlockLevel: 7
+  baseUpgradeCost: 1000
+  upgradeCostMultiplier: 1.2
+  capacityGrowthRate: 0.1
+  speedGrowthRate: 0.05

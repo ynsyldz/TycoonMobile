@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ab55b73891fd2a4aaf4d6e6e8c04319, type: 3}
+  m_Name: Route_Kadikoy_Besiktas
+  m_EditorClassIdentifier: Assembly-CSharp::RouteDataSO
+  startLocation: {fileID: 11400000, guid: dce0f5cdbd7d9ac459696a428a653f23, type: 2}
+  endLocation: {fileID: 11400000, guid: 202c1f59dcb40da4bb5a244d63e4a532, type: 2}
+  routeDistance: 150
+  requiredLevel: 1
+  zoneMultiplier: 1

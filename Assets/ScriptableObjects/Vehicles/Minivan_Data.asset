@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4a4a1bde26cb7448b6b58ac1d0898fc, type: 3}
+  m_Name: Minivan_Data
+  m_EditorClassIdentifier: Assembly-CSharp::VehicleDataSO
+  vehicleID: minivan_01
+  vehicleName: Starter_Minivan
+  vehicleType: 0
+  vehicleIcon: {fileID: 0}
+  capacity: 100
+  speed: 20
+  fuelEfficiency: 0
+  baseCost: 5000
+  conditionLossPerDistance: 1
+  maxMaintenanceCost: 500
+  driverHireCost: 2000
+  unlockLevel: 0
+  baseUpgradeCost: 1000
+  upgradeCostMultiplier: 1.2
+  capacityGrowthRate: 0.1
+  speedGrowthRate: 0.05
