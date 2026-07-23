@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: 92a3babe38bcbbf4d84c68d153343a89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4247555849209877089
+    second: Turkey_provinces_blank_gray.svg_0
+  - first:
+      213: -2384211388113552188
+    second: Turkey_provinces_blank_gray.svg_1
+  - first:
+      213: 3763544860784318673
+    second: Turkey_provinces_blank_gray.svg_2
+  - first:
+      213: -432356729321831757
+    second: Turkey_provinces_blank_gray.svg_3
+  - first:
+      213: 5951542082497759986
+    second: Turkey_provinces_blank_gray.svg_4
+  - first:
+      213: 6094597474415531334
+    second: Turkey_provinces_blank_gray.svg_5
+  - first:
+      213: -4532381038438045058
+    second: Turkey_provinces_blank_gray.svg_6
+  - first:
+      213: -1449393585715775474
+    second: Turkey_provinces_blank_gray.svg_7
+  - first:
+      213: -6744194822643276777
+    second: Turkey_provinces_blank_gray.svg_8
+  - first:
+      213: -3641292988768178602
+    second: Turkey_provinces_blank_gray.svg_9
+  - first:
+      213: 6177405116366513919
+    second: Turkey_provinces_blank_gray.svg_10
+  - first:
+      213: 2727379691008880280
+    second: Turkey_provinces_blank_gray.svg_11
+  - first:
+      213: 844827634762718247
+    second: Turkey_provinces_blank_gray.svg_12
+  - first:
+      213: -4817069012455162711
+    second: Turkey_provinces_blank_gray.svg_13
+  - first:
+      213: -6865276861810118536
+    second: Turkey_provinces_blank_gray.svg_14
+  - first:
+      213: 7263050543870166942
+    second: Turkey_provinces_blank_gray.svg_15
+  - first:
+      213: -7233147109412545662
+    second: Turkey_provinces_blank_gray.svg_16
+  - first:
+      213: -613099035522803228
+    second: Turkey_provinces_blank_gray.svg_17
+  - first:
+      213: 8715139505420397855
+    second: Turkey_provinces_blank_gray.svg_18
+  - first:
+      213: 2343084786494732935
+    second: Turkey_provinces_blank_gray.svg_19
+  - first:
+      213: 2892474152129729132
+    second: Turkey_provinces_blank_gray.svg_20
+  - first:
+      213: -8602014970207582017
+    second: Turkey_provinces_blank_gray.svg_21
+  - first:
+      213: 3930349478712362257
+    second: Turkey_provinces_blank_gray.svg_22
+  - first:
+      213: 4149469762305096416
+    second: Turkey_provinces_blank_gray.svg_23
+  - first:
+      213: 6753908488836770141
+    second: Turkey_provinces_blank_gray.svg_24
+  - first:
+      213: 3038545070767997488
+    second: Turkey_provinces_blank_gray.svg_25
+  - first:
+      213: 7801141867688197173
+    second: Turkey_provinces_blank_gray.svg_26
+  - first:
+      213: -2763736375073720662
+    second: Turkey_provinces_blank_gray.svg_27
+  - first:
+      213: 3040821854082888664
+    second: Turkey_provinces_blank_gray.svg_28
+  - first:
+      213: -8970029140852816671
+    second: Turkey_provinces_blank_gray.svg_29
+  - first:
+      213: -6575681321735992489
+    second: Turkey_provinces_blank_gray.svg_30
+  - first:
+      213: 2432375265861419734
+    second: Turkey_provinces_blank_gray.svg_31
+  - first:
+      213: 9005509662260028914
+    second: Turkey_provinces_blank_gray.svg_32
+  - first:
+      213: -6902769811157860777
+    second: Turkey_provinces_blank_gray.svg_33
+  - first:
+      213: -3977598454349978511
+    second: Turkey_provinces_blank_gray.svg_34
+  - first:
+      213: -1336026694649542506
+    second: Turkey_provinces_blank_gray.svg_35
+  - first:
+      213: -5627952708649901693
+    second: Turkey_provinces_blank_gray.svg_36
+  - first:
+      213: -7914535558492465261
+    second: Turkey_provinces_blank_gray.svg_37
+  - first:
+      213: -3746339981026351831
+    second: Turkey_provinces_blank_gray.svg_38
+  - first:
+      213: 5164803429210727074
+    second: Turkey_provinces_blank_gray.svg_39
+  - first:
+      213: -8840186933570254113
+    second: Turkey_provinces_blank_gray.svg_40
+  - first:
+      213: 5171203998914084245
+    second: Turkey_provinces_blank_gray.svg_41
+  - first:
+      213: 136052575798400250
+    second: Turkey_provinces_blank_gray.svg_42
+  - first:
+      213: -6877355764315760219
+    second: Turkey_provinces_blank_gray.svg_43
+  - first:
+      213: 6748303981009895554
+    second: Turkey_provinces_blank_gray.svg_44
+  - first:
+      213: -5140372936513300479
+    second: Turkey_provinces_blank_gray.svg_45
+  - first:
+      213: 150565385374092228
+    second: Turkey_provinces_blank_gray.svg_46
+  - first:
+      213: 7473950650576287094
+    second: Turkey_provinces_blank_gray.svg_47
+  - first:
+      213: -6752444527205635479
+    second: Turkey_provinces_blank_gray.svg_48
+  - first:
+      213: 3473806717070216076
+    second: Turkey_provinces_blank_gray.svg_49
+  - first:
+      213: 2075547882164167013
+    second: Turkey_provinces_blank_gray.svg_50
+  - first:
+      213: 7556525913997052463
+    second: Turkey_provinces_blank_gray.svg_51
+  - first:
+      213: -6926496004373009871
+    second: Turkey_provinces_blank_gray.svg_52
+  - first:
+      213: -4411517430930116774
+    second: Turkey_provinces_blank_gray.svg_53
+  - first:
+      213: -3978039071484935483
+    second: Turkey_provinces_blank_gray.svg_54
+  - first:
+      213: 5958225463356530935
+    second: Turkey_provinces_blank_gray.svg_55
+  - first:
+      213: 3810230970373369019
+    second: Turkey_provinces_blank_gray.svg_56
+  - first:
+      213: -2726140342195456185
+    second: Turkey_provinces_blank_gray.svg_57
+  - first:
+      213: 1410859396508194929
+    second: Turkey_provinces_blank_gray.svg_58
+  - first:
+      213: 6648457839971897788
+    second: Turkey_provinces_blank_gray.svg_59
+  - first:
+      213: 8817680308793280833
+    second: Turkey_provinces_blank_gray.svg_60
+  - first:
+      213: -7035825888466115961
+    second: Turkey_provinces_blank_gray.svg_61
+  - first:
+      213: 7079154519042420010
+    second: Turkey_provinces_blank_gray.svg_62
+  - first:
+      213: 8972258043076053380
+    second: Turkey_provinces_blank_gray.svg_63
+  - first:
+      213: 1843402048611426179
+    second: Turkey_provinces_blank_gray.svg_64
+  - first:
+      213: 6684010742585198312
+    second: Turkey_provinces_blank_gray.svg_65
+  - first:
+      213: -6113465345384302707
+    second: Turkey_provinces_blank_gray.svg_66
+  - first:
+      213: 1571552523749032144
+    second: Turkey_provinces_blank_gray.svg_67
+  - first:
+      213: -2327785588334793305
+    second: Turkey_provinces_blank_gray.svg_68
+  - first:
+      213: 8024236975027021995
+    second: Turkey_provinces_blank_gray.svg_69
+  - first:
+      213: -4805407493993347853
+    second: Turkey_provinces_blank_gray.svg_70
+  - first:
+      213: 6724548012760900220
+    second: Turkey_provinces_blank_gray.svg_71
+  - first:
+      213: -885243510733509712
+    second: Turkey_provinces_blank_gray.svg_72
+  - first:
+      213: -8747046849126386861
+    second: Turkey_provinces_blank_gray.svg_73
+  - first:
+      213: 2614107077720327343
+    second: Turkey_provinces_blank_gray.svg_74
+  - first:
+      213: 4249378670210966516
+    second: Turkey_provinces_blank_gray.svg_75
+  - first:
+      213: -1403888835660152877
+    second: Turkey_provinces_blank_gray.svg_76
+  - first:
+      213: 1433507183416699989
+    second: Turkey_provinces_blank_gray.svg_77
+  - first:
+      213: -2401260672280583988
+    second: Turkey_provinces_blank_gray.svg_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1390
+        width: 202
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16299c35a8952fa30800000000000000
+      internalID: 4247555849209877089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1367
+        width: 289
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccfc06ef5499eed0800000000000000
+      internalID: -2384211388113552188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1529
+        width: 246
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8db4b5c1cca3430800000000000000
+      internalID: 3763544860784318673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_3
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1440
+        width: 217
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2c58c68d5fff9f0800000000000000
+      internalID: -432356729321831757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_4
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1408
+        width: 186
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa411dcdff189250800000000000000
+      internalID: 5951542082497759986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_5
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1485
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645d787cc1c549450800000000000000
+      internalID: 6094597474415531334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_6
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1358
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a2f29857fb911c0800000000000000
+      internalID: -4532381038438045058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_7
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1356
+        width: 349
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e087ea78638b2ebe0800000000000000
+      internalID: -1449393585715775474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_8
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1450
+        width: 237
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714a1548a8ec762a0800000000000000
+      internalID: -6744194822643276777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_9
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1355
+        width: 436
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e2a51b157877dc0800000000000000
+      internalID: -3641292988768178602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_10
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1314
+        width: 268
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6e4ba593d8ab550800000000000000
+      internalID: 6177405116366513919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_11
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1355
+        width: 218
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ee232f06999d520800000000000000
+      internalID: 2727379691008880280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1258
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c177af14e69bb00800000000000000
+      internalID: 844827634762718247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_13
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1087
+        width: 455
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac711e4145562db0800000000000000
+      internalID: -4817069012455162711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_14
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1394
+        width: 161
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87079176113a9b0a0800000000000000
+      internalID: -6865276861810118536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_15
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1245
+        width: 209
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97c6150df98bc460800000000000000
+      internalID: 7263050543870166942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_16
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1203
+        width: 395
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b525fd603be9b90800000000000000
+      internalID: -7233147109412545662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_17
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1321
+        width: 175
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9578feca5dd77f0800000000000000
+      internalID: -613099035522803228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_18
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1210
+        width: 302
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d6e84943562f870800000000000000
+      internalID: 8715139505420397855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_19
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1130
+        width: 308
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78af3a9f23f448020800000000000000
+      internalID: 2343084786494732935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_20
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1202
+        width: 293
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6211b79ae1242820800000000000000
+      internalID: 2892474152129729132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_21
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1231
+        width: 285
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb84f24c5f08f9880800000000000000
+      internalID: -8602014970207582017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_22
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 1161
+        width: 229
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115cac9e6086b8630800000000000000
+      internalID: 3930349478712362257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_23
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 1290
+        width: 264
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea7b6493c0e59930800000000000000
+      internalID: 4149469762305096416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_24
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 1292
+        width: 209
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d596c92acf3babd50800000000000000
+      internalID: 6753908488836770141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_25
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 787
+        width: 824
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032042994a41b2a20800000000000000
+      internalID: 3038545070767997488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_26
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 1172
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c7bf94239334c60800000000000000
+      internalID: 7801141867688197173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_27
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1357
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6b7e6e86c35a9d0800000000000000
+      internalID: -2763736375073720662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_28
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1131
+        width: 425
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3fad58d5b233a20800000000000000
+      internalID: 3040821854082888664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1274
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4c09a850e048380800000000000000
+      internalID: -8970029140852816671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1111
+        width: 297
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b41c56dac7eb4a0800000000000000
+      internalID: -6575681321735992489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 971
+        width: 462
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2cd12ca6881c120800000000000000
+      internalID: 2432375265861419734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_32
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1090
+        width: 183
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f56b58135ff9fc70800000000000000
+      internalID: 9005509662260028914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_33
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 812
+        width: 582
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e35afdd6f6430a0800000000000000
+      internalID: -6902769811157860777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_34
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 773
+        width: 565
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174a35da74bbcc8c0800000000000000
+      internalID: -3977598454349978511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_35
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1119
+        width: 254
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69889febcca757de0800000000000000
+      internalID: -1336026694649542506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_36
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 1144
+        width: 208
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381a93464de75e1b0800000000000000
+      internalID: -5627952708649901693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_37
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 866
+        width: 352
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397dbd1b7dbe92290800000000000000
+      internalID: -7914535558492465261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_38
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 928
+        width: 398
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925a41fd2a3520cc0800000000000000
+      internalID: -3746339981026351831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_39
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 986
+        width: 178
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a223d4ca511da740800000000000000
+      internalID: 5164803429210727074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_40
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 880
+        width: 409
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdace7c32d8515580800000000000000
+      internalID: -8840186933570254113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_41
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 907
+        width: 480
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d7a5883aec3c740800000000000000
+      internalID: 5171203998914084245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_42
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 1135
+        width: 297
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af49d3bc81b53e100800000000000000
+      internalID: 136052575798400250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 681
+        width: 431
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a959f1ce59be80a0800000000000000
+      internalID: -6877355764315760219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_44
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 713
+        width: 382
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280037877bac6ad50800000000000000
+      internalID: 6748303981009895554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_45
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 741
+        width: 247
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108d7129c0ab9a8b0800000000000000
+      internalID: -5140372936513300479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_46
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 328
+        width: 955
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb41b69b6ae61200800000000000000
+      internalID: 150565385374092228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_47
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 628
+        width: 243
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675366c948ec8b760800000000000000
+      internalID: 7473950650576287094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_48
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 844
+        width: 244
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96aa06e7a7f7a42a0800000000000000
+      internalID: -6752444527205635479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_49
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 715
+        width: 174
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b065dddc0753030800000000000000
+      internalID: 3473806717070216076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_50
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 565
+        width: 415
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561a5b65dc3ddcc10800000000000000
+      internalID: 2075547882164167013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_51
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 612
+        width: 383
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a04d7584c2ed860800000000000000
+      internalID: 7556525913997052463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_52
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 718
+        width: 391
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a2f29059420ef90800000000000000
+      internalID: -6926496004373009871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_53
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 846
+        width: 323
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f67f0154427c2c0800000000000000
+      internalID: -4411517430930116774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_54
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 771
+        width: 273
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c204818a8a2bc8c0800000000000000
+      internalID: -3978039071484935483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_55
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 651
+        width: 314
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0ad0bad7edfa250800000000000000
+      internalID: 5958225463356530935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_56
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 617
+        width: 351
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbceb4d41e8a0e430800000000000000
+      internalID: 3810230970373369019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_57
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 556
+        width: 361
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747f39f6dcdca2ad0800000000000000
+      internalID: -2726140342195456185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_58
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 263
+        width: 501
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17894e46521649310800000000000000
+      internalID: 1410859396508194929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_59
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 397
+        width: 304
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb19faf2e21144c50800000000000000
+      internalID: 6648457839971897788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_60
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 396
+        width: 316
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1498494d581be5a70800000000000000
+      internalID: 8817680308793280833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_61
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 467
+        width: 250
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782ea70c1a9bb5e90800000000000000
+      internalID: -7035825888466115961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_62
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 271
+        width: 334
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2def9137853e3260800000000000000
+      internalID: 7079154519042420010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_63
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 426
+        width: 308
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48980b2372dd38c70800000000000000
+      internalID: 8972258043076053380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_64
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 492
+        width: 361
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f16bd7564159910800000000000000
+      internalID: 1843402048611426179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_65
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 311
+        width: 485
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e68fa26b5062cc50800000000000000
+      internalID: 6684010742585198312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_66
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 527
+        width: 443
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8735bda8ab982ba0800000000000000
+      internalID: -6113465345384302707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_67
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 379
+        width: 400
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d00ee3a1b64fc510800000000000000
+      internalID: 1571552523749032144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_68
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 539
+        width: 175
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ade70e275b02bfd0800000000000000
+      internalID: -2327785588334793305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_69
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 573
+        width: 315
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba86a0ab301db5f60800000000000000
+      internalID: 8024236975027021995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_70
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 449
+        width: 379
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4c6872853cf4db0800000000000000
+      internalID: -4805407493993347853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_71
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 455
+        width: 304
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c722ca71ac4625d50800000000000000
+      internalID: 6724548012760900220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_72
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 168
+        width: 683
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb620b97bbf6b3f0800000000000000
+      internalID: -885243510733509712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_73
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 234
+        width: 322
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3533f1c0c3f3c9680800000000000000
+      internalID: -8747046849126386861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_74
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 151
+        width: 528
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4ca5c798c274420800000000000000
+      internalID: 2614107077720327343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_75
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 85
+        width: 178
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3eb0ae263d8fa30800000000000000
+      internalID: 4249378670210966516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_76
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 369
+        width: 168
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dff656ca82648ce0800000000000000
+      internalID: -1403888835660152877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_77
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 313
+        width: 319
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ce5823037d4e310800000000000000
+      internalID: 1433507183416699989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turkey_provinces_blank_gray.svg_78
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 293
+        width: 169
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0a99714220daed0800000000000000
+      internalID: -2401260672280583988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Turkey_provinces_blank_gray.svg_0: 4247555849209877089
+      Turkey_provinces_blank_gray.svg_1: -2384211388113552188
+      Turkey_provinces_blank_gray.svg_10: 6177405116366513919
+      Turkey_provinces_blank_gray.svg_11: 2727379691008880280
+      Turkey_provinces_blank_gray.svg_12: 844827634762718247
+      Turkey_provinces_blank_gray.svg_13: -4817069012455162711
+      Turkey_provinces_blank_gray.svg_14: -6865276861810118536
+      Turkey_provinces_blank_gray.svg_15: 7263050543870166942
+      Turkey_provinces_blank_gray.svg_16: -7233147109412545662
+      Turkey_provinces_blank_gray.svg_17: -613099035522803228
+      Turkey_provinces_blank_gray.svg_18: 8715139505420397855
+      Turkey_provinces_blank_gray.svg_19: 2343084786494732935
+      Turkey_provinces_blank_gray.svg_2: 3763544860784318673
+      Turkey_provinces_blank_gray.svg_20: 2892474152129729132
+      Turkey_provinces_blank_gray.svg_21: -8602014970207582017
+      Turkey_provinces_blank_gray.svg_22: 3930349478712362257
+      Turkey_provinces_blank_gray.svg_23: 4149469762305096416
+      Turkey_provinces_blank_gray.svg_24: 6753908488836770141
+      Turkey_provinces_blank_gray.svg_25: 3038545070767997488
+      Turkey_provinces_blank_gray.svg_26: 7801141867688197173
+      Turkey_provinces_blank_gray.svg_27: -2763736375073720662
+      Turkey_provinces_blank_gray.svg_28: 3040821854082888664
+      Turkey_provinces_blank_gray.svg_29: -8970029140852816671
+      Turkey_provinces_blank_gray.svg_3: -432356729321831757
+      Turkey_provinces_blank_gray.svg_30: -6575681321735992489
+      Turkey_provinces_blank_gray.svg_31: 2432375265861419734
+      Turkey_provinces_blank_gray.svg_32: 9005509662260028914
+      Turkey_provinces_blank_gray.svg_33: -6902769811157860777
+      Turkey_provinces_blank_gray.svg_34: -3977598454349978511
+      Turkey_provinces_blank_gray.svg_35: -1336026694649542506
+      Turkey_provinces_blank_gray.svg_36: -5627952708649901693
+      Turkey_provinces_blank_gray.svg_37: -7914535558492465261
+      Turkey_provinces_blank_gray.svg_38: -3746339981026351831
+      Turkey_provinces_blank_gray.svg_39: 5164803429210727074
+      Turkey_provinces_blank_gray.svg_4: 5951542082497759986
+      Turkey_provinces_blank_gray.svg_40: -8840186933570254113
+      Turkey_provinces_blank_gray.svg_41: 5171203998914084245
+      Turkey_provinces_blank_gray.svg_42: 136052575798400250
+      Turkey_provinces_blank_gray.svg_43: -6877355764315760219
+      Turkey_provinces_blank_gray.svg_44: 6748303981009895554
+      Turkey_provinces_blank_gray.svg_45: -5140372936513300479
+      Turkey_provinces_blank_gray.svg_46: 150565385374092228
+      Turkey_provinces_blank_gray.svg_47: 7473950650576287094
+      Turkey_provinces_blank_gray.svg_48: -6752444527205635479
+      Turkey_provinces_blank_gray.svg_49: 3473806717070216076
+      Turkey_provinces_blank_gray.svg_5: 6094597474415531334
+      Turkey_provinces_blank_gray.svg_50: 2075547882164167013
+      Turkey_provinces_blank_gray.svg_51: 7556525913997052463
+      Turkey_provinces_blank_gray.svg_52: -6926496004373009871
+      Turkey_provinces_blank_gray.svg_53: -4411517430930116774
+      Turkey_provinces_blank_gray.svg_54: -3978039071484935483
+      Turkey_provinces_blank_gray.svg_55: 5958225463356530935
+      Turkey_provinces_blank_gray.svg_56: 3810230970373369019
+      Turkey_provinces_blank_gray.svg_57: -2726140342195456185
+      Turkey_provinces_blank_gray.svg_58: 1410859396508194929
+      Turkey_provinces_blank_gray.svg_59: 6648457839971897788
+      Turkey_provinces_blank_gray.svg_6: -4532381038438045058
+      Turkey_provinces_blank_gray.svg_60: 8817680308793280833
+      Turkey_provinces_blank_gray.svg_61: -7035825888466115961
+      Turkey_provinces_blank_gray.svg_62: 7079154519042420010
+      Turkey_provinces_blank_gray.svg_63: 8972258043076053380
+      Turkey_provinces_blank_gray.svg_64: 1843402048611426179
+      Turkey_provinces_blank_gray.svg_65: 6684010742585198312
+      Turkey_provinces_blank_gray.svg_66: -6113465345384302707
+      Turkey_provinces_blank_gray.svg_67: 1571552523749032144
+      Turkey_provinces_blank_gray.svg_68: -2327785588334793305
+      Turkey_provinces_blank_gray.svg_69: 8024236975027021995
+      Turkey_provinces_blank_gray.svg_7: -1449393585715775474
+      Turkey_provinces_blank_gray.svg_70: -4805407493993347853
+      Turkey_provinces_blank_gray.svg_71: 6724548012760900220
+      Turkey_provinces_blank_gray.svg_72: -885243510733509712
+      Turkey_provinces_blank_gray.svg_73: -8747046849126386861
+      Turkey_provinces_blank_gray.svg_74: 2614107077720327343
+      Turkey_provinces_blank_gray.svg_75: 4249378670210966516
+      Turkey_provinces_blank_gray.svg_76: -1403888835660152877
+      Turkey_provinces_blank_gray.svg_77: 1433507183416699989
+      Turkey_provinces_blank_gray.svg_78: -2401260672280583988
+      Turkey_provinces_blank_gray.svg_8: -6744194822643276777
+      Turkey_provinces_blank_gray.svg_9: -3641292988768178602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

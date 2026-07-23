@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Location_Besiktas
   m_EditorClassIdentifier: Assembly-CSharp::LocationDataSO
   locationName: "Be\u015Fikta\u015F"
-  mapCoordinates: {x: 2, y: 3}
+  mapCoordinates: {x: 0.495, y: 0.559}

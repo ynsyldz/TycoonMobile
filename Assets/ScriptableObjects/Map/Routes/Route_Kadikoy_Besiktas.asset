@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RouteDataSO
   startLocation: {fileID: 11400000, guid: dce0f5cdbd7d9ac459696a428a653f23, type: 2}
   endLocation: {fileID: 11400000, guid: 202c1f59dcb40da4bb5a244d63e4a532, type: 2}
-  routeDistance: 150
+  routeDistance: 300
   requiredLevel: 1
   zoneMultiplier: 1

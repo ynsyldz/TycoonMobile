@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Location_Kadikoy
   m_EditorClassIdentifier: Assembly-CSharp::LocationDataSO
   locationName: "Kad\u0131k\xF6y"
-  mapCoordinates: {x: -3, y: -2}
+  mapCoordinates: {x: 0.522, y: 0.419}
